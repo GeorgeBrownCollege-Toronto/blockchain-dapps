@@ -1,6 +1,6 @@
 ## Dapps
 
-[Course website](https://georgrbrowncollege-toronto.github.io/blockchain-dapps/)
+[Course website](https://georgebrowncollege-toronto.github.io/blockchain-dapps/)
 
 If you want to view these slides on your own computer, clone the repository, switch into the directory, and update the submodules:
 
